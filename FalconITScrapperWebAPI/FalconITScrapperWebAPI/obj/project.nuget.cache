@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "tspIEBJA2T0sH1iTFjqgSMLtwHZPPm4i54edBgmsyr1+oKwsll45Dc0nPtGPpah4ICb+KlzrenZcNTJsvbgHVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.0\\microsoft.extensions.configuration.binder.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.extensions.logging\\3.0.0\\microsoft.extensions.logging.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\nlog\\4.7.10\\nlog.4.7.10.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\nlog.extensions.logging\\1.7.3\\nlog.extensions.logging.1.7.3.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\selenium.webdriver.chromedriver\\92.0.4515.4300\\selenium.webdriver.chromedriver.92.0.4515.4300.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

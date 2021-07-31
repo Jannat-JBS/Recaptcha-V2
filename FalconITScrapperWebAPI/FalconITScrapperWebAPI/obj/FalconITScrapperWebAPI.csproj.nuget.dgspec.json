@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\ApplicationServices\\ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\ApplicationServices\\ApplicationServices.csproj",
+        "projectName": "ApplicationServices",
+        "projectPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\ApplicationServices\\ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yashfa Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yashfa Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI.csproj",
+        "projectName": "FalconITScrapperWebAPI",
+        "projectPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI.csproj",
+        "packagesPath": "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\FalconITScrapperWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yashfa Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\ApplicationServices\\ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\ApplicationServices\\ApplicationServices.csproj"
+              },
+              "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\LoggerService\\LoggerService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[92.0.4515.4300, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\LoggerService\\LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\LoggerService\\LoggerService.csproj",
+        "projectName": "LoggerService",
+        "projectPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\LoggerService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yashfa Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

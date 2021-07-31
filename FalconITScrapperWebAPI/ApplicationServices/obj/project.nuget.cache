@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNO27n11hM39a3bCwDB+/rmBEKg0Cf9efkjqDVmf9gZ7ZiysBfnQIDvKsdULpDDEDmoVGFuK3KRebOCVMLi68w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yashfa Ashraf\\source\\repos\\FalconITScrapperWebAPI\\ApplicationServices\\ApplicationServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Yashfa Ashraf\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512"
+  ],
+  "logs": []
+}

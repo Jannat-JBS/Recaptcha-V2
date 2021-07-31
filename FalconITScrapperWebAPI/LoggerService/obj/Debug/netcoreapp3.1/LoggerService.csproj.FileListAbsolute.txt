@@ -1,0 +1,9 @@
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

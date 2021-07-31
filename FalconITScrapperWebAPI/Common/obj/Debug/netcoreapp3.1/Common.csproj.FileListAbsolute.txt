@@ -1,0 +1,9 @@
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Yashfa Ashraf\source\repos\FalconITScrapperWebAPI\Common\obj\Debug\netcoreapp3.1\Common.pdb
